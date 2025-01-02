@@ -1,1 +1,6 @@
-streamlit
+flask
+flask-cors
+tensorflow
+Pillow
+numpy
+gunicorn
